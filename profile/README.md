@@ -12,3 +12,6 @@
 -->
 
 PGRacing Driverless Organization
+
+This project is completed and no longer actively maintained.  
+The repository is archived for reference purposes only.
